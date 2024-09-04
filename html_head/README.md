@@ -1,4 +1,4 @@
-# <head> tag
+# Head tag
 
 In this project we will be following along with the Atlas WW1000 <head> Tag project. Metadata is important as it helps structure the HTML and optimize performance and SEO. To my understanding of this project this is a way for the instructor (Max) to get to know his students.
 
@@ -11,7 +11,7 @@ We will be learning about the <head> tag, Which is essential for setting up Meta
 This project is used by the following:
 
 - Myself (The Author(Taylor Green))
-- Whoever Finds This Haha
+- Whoever Finds This
 
 
 ## Acknowledgements
