@@ -12,17 +12,18 @@ header {
 .container{
     display: flex;
     border: 5px solid black;
-    justify-content: space-around;
     align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
 }
 .inner_container{
     border: 5px dashed yellow;
-    max-width: 100%;
-    padding-right: 1%;
     justify-items: center;
     align-items: baseline;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .video{
     display: flex;
@@ -33,7 +34,7 @@ header {
     border: 5px solid #14CF91;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-;
     align-items: center;
 }
 .circle{
@@ -45,7 +46,7 @@ header {
     border: 5px solid blue;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    text-align: center;
 }
 a:link{
     color: #FFFFFF;
@@ -65,4 +66,14 @@ a:visited{
     background-color: #C271FF;
     border-radius: 25px;
     color: #FFFFFF;
+}
+#title{
+    display: flex;
+    justify-content: center;
+}
+span{
+    color:#C271FF;
+}
+h1{
+    font-size: 120px;
 }
