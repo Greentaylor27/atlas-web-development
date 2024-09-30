@@ -23,3 +23,6 @@ This project is used by the following:
 - Staff at Atlas
 - Students at Atlas
 
+## LINK TO GITHUB PAGES
+
+https://greentaylor27.github.io/atlas-web-development/css_advanced/
